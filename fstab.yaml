@@ -1,5 +1,5 @@
 mountpoints:
 	  /:
-	    url: https://author-p148860-e338290-cmstg.adobeaemcloud.com/bin/franklin.delivery/shraddhasingh683/shraedsrepo/main
+		url: https://author-p165752-e1765208.adobeaemcloud.com/bin/franklin.delivery/shraddhasingh683/shraedsrepo/main
 	    type: "markup"
 	    suffix: ".html"
